@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Yolanda Fonseca</h1>
 <h3 align="center">I am a Business Administrator and a passionate frontend developer junior</h3>
 
-- 🔭 I’m currently working on **web development**
+<h3 align="center">🔭 I’m currently working on **web development**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
